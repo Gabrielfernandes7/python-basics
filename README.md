@@ -6,3 +6,7 @@
 2. [Tuplas](Tuplas/readme.md)
 3. [Dicionários](Dicionarios/readme.md)
 4. [Conjuntos](Dicionarios/readme.md)
+
+## Funções
+
+1. [Funções](Funcoes/readme.md)
